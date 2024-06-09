@@ -1,0 +1,9 @@
+keras
+imageio==2.23.0
+tensorflow
+opencv-python
+matplotlib
+streamlit
+numpy
+moviepy
+ffmpeg
