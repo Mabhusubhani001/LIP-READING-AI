@@ -2,11 +2,11 @@
 Welcome to the LIP READING-AI repository! This project focuses on developing an artificial intelligence system capable of reading lips from video inputs. Leveraging state-of-the-art machine learning techniques and deep learning models, our system aims to improve communication accessibility, particularly for the hearing-impaired community.
 
 ## Features
-Deep Learning Models: Utilizes advanced neural networks for accurate lip reading.
-Video Processing: Efficient video preprocessing and feature extraction.
-Pre-trained Models: Includes pre-trained models for immediate use.
-Custom Training: Provides tools for training models on custom datasets.
-Extensive Documentation: Comprehensive guides and tutorials for setup, usage, and customization.
+* Deep Learning Models: Utilizes advanced neural networks for accurate lip reading.
+* Video Processing: Efficient video preprocessing and feature extraction.
+* Pre-trained Models: Includes pre-trained models for immediate use.
+* Custom Training: Provides tools for training models on custom datasets.
+* Extensive Documentation: Comprehensive guides and tutorials for setup, usage, and customization.
 
 ## Getting Started
 ### Prerequisites
