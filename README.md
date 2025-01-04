@@ -13,7 +13,7 @@ Welcome to the LIP READING-AI repository! This project focuses on developing an 
 * Python 3.7+
 * TensorFlow 2.x
 * OpenCV
-* Other dependencies listed in requirements.txt
+* Other dependencies listed in requirements.txt!
 
 ### Dataset and pre-trained model
 
